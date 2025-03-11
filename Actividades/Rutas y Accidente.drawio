@@ -1,9 +1,111 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="bIBRNTEJ0koOP4-CUu89">
-    <mxGraphModel>
+    <mxGraphModel dx="636" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CTt09lhxSWBVQNca2lRr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-1" target="CTt09lhxSWBVQNca2lRr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-2" target="CTt09lhxSWBVQNca2lRr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-2" value="Elegir ruta en Waze" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-4" target="CTt09lhxSWBVQNca2lRr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-4" value="Presionar compartir ruta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-6" target="CTt09lhxSWBVQNca2lRr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-6" value="Copiar el enlace de la ruta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-8" target="CTt09lhxSWBVQNca2lRr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-8" value="Abrir aplicacion de mapas GPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-10" target="CTt09lhxSWBVQNca2lRr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-10" value="Pegar en enlace de ruta en la busqueda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-12" target="CTt09lhxSWBVQNca2lRr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-12" value="Sale la ruta exacta?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="540" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="CTt09lhxSWBVQNca2lRr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="150" as="sourcePoint" />
+            <mxPoint x="450" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="610" as="sourcePoint" />
+            <mxPoint x="520" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="520" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-18" target="CTt09lhxSWBVQNca2lRr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-18" value="Se llegaria a tiempo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="730" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-20" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="688" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-21" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="608" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="CTt09lhxSWBVQNca2lRr-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="130" as="sourcePoint" />
+            <mxPoint x="470" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="800" as="sourcePoint" />
+            <mxPoint x="560" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="800" as="sourcePoint" />
+            <mxPoint x="560" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-25" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="800" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTt09lhxSWBVQNca2lRr-26" target="CTt09lhxSWBVQNca2lRr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-26" value="Usar la ruta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTt09lhxSWBVQNca2lRr-28" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
